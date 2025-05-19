@@ -1,0 +1,4 @@
+go build -ldflags="-H windowsgui" -o netbot.exe main.go
+
+
+For compiling without the console
